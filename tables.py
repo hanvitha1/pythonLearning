@@ -1,4 +1,4 @@
-n = int(input("enter n: "))
+n = int(input("enter n value: "))
 i=1
 while n:
     if i<=10:
