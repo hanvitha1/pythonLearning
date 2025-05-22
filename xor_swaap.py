@@ -6,3 +6,5 @@ a = a^b #here a=(a^b)^a (since b became a in the previous step)| = (a^a)^b | 0^b
 #both the values of a and be are swapped.
 print(f"a is {a}")
 print(f"b is {b}")
+
+
