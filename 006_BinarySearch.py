@@ -17,3 +17,6 @@ if flag == True:
     print(f"index {mid}")
 else:
     print("element not found")
+
+
+
