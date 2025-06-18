@@ -1,7 +1,6 @@
 def f(n):
-    if n>100:
-        return None
-    else:
+    if n>0:
+        f(n-1)
         print(n, end = " ")
-        f(n+1)
-f(1)
+
+f(10)
