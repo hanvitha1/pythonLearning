@@ -1,5 +1,5 @@
 row = 5
-num = 1
+num = 100
 n= ((row)*row)+((row-1)*(row-1))
 print(n)
 print(num + (n-1))
